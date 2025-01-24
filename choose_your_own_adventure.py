@@ -9,7 +9,7 @@ if answerQ1 == "black":
     elif answerQ2 == "no":
         answerQ3 = input("You do not have the courage to talk to the lady so you get up and start walking along. You start to notice all the bypassers on the street are staring and gasping as you walk by and you begin to wonder why. A mother from the kid's playground nearby notices you and calls the police. By the time you realize you don't have pants on its too late, you are being arrested for public indecency. From a jail cell now you are given one call, who do you call: Option 1 or Option 2? (Type '1' or '2'): ")
         if answerQ3 == "1":
-            answerQ4 = input("You call your mom, she bails you out.")
+            answerQ4 = input("You call your mom, she bails you out. Then she begins to ask you a bunch of questions about last night. Specifically about why you texted her a series of numbers: 9304. More information about last night comes flooding back and you realize that the code is an access key. You explain all you can to your mom, you find your way back to the door. Do you input the code and walk in or do you ask the guy sitting nearby how he is doing today? (Type: 'enter door'or 'start conversation'): ")
 
         if answerQ3 == "2":
             answerQ4 = input("You call your ex-wife who you seperated with 5 months ago. She does not take your call and you are stuck in jail forever.\nYou lose. Goodbye.")
@@ -26,3 +26,4 @@ elif answerQ1 == "white":
 
 else:
     answerQ1 = input("Not a valid option.\nYou lose. Goodbye.")
+
