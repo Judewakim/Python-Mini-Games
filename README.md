@@ -8,9 +8,8 @@
 
 
 <h2>Rock, Paper, Scissors</h2>
-<h4>The logic behind this beginner level mini game is as follows: 
+<h4>The logic behind this beginner level mini game is as follows: </h4>
 <br>
- <br>
 1. Game tells user how to play (enter rock, paper, scissors, score, or quit<br>
 2. If score is entered output both the user and the computer's scores<br>
 3. If quit is entered game ends<br>
@@ -19,4 +18,4 @@
 6. Detail winning scenarios<br>
 7. Detail tied scenarios<br>
 8. Detail losing scenarios<br>
-</h4>
+
